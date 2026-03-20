@@ -1,0 +1,5 @@
+
+body{font-family:Arial;background:var(--bg);color:var(--text);} 
+:root{--bg:#0b0b0d;--text:#fff;} 
+.light{--bg:#fff;--text:#000;} 
+.profile{width:180px;border-radius:10px;}
